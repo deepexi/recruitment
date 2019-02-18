@@ -1,6 +1,6 @@
 # Hire Guru
 
-> 关于薪资、福利、发展、方向，请看 请看 [Job Description](job-description.md) 这个文档。
+> 关于薪资、福利、发展、方向，请看 [Job Description](job-description.md) 这个文档。
 
 ## 一、时间 + 资料
 
