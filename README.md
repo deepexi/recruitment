@@ -4,7 +4,7 @@
 
 ## 一、时间 + 资料
 
-- 时间：自选三天内独立完成，可使用任何辅助工具
+- 时间：自选2天内独立完成，可使用任何辅助工具
 - URL：[https://github.com/deepexi/dubbo-demo)
 - 邮箱：chenshaowen@deepexi.com （结果发到这个邮箱）
 
