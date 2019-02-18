@@ -8,6 +8,8 @@
 - URL：[https://github.com/deepexi/dubbo-demo)
 - 邮箱：chenshaowen@deepexi.com （结果发到这个邮箱）
 
+如果完成，则经过初步筛选，可以发送内容到上面的邮件
+
 ## 二、题
 
 #### 1. 微服务工程中实现一个用户管理CRUD的功能,并且其中一个微服务作为提供者，另一个作为消费者，实现远程调用的例子
