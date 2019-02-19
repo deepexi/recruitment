@@ -6,12 +6,15 @@
 ## 一、时间 + 资料
 
 - 时间：3天内独立完成，可使用任何辅助工具
-- URL：[https://github.com/deepexi/dubbo-demo)
+- URL1：[https://github.com/deepexi/dubbo-demo]
+- URL2：[https://github.com/deepexi/springcloud-exam]
 - 邮箱：chenshaowen@deepexi.com （结果发到这个邮箱）
 
 如果完成，则经过初步筛选，可以发送内容到上面的邮件
 
 ## 二、题
+
+下面的开发可选dubbo或者springcloud（二选1）
 
 #### 1. 微服务工程中实现下图一个组件管理的功能(仅需提供数据接口)
 
