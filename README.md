@@ -21,7 +21,7 @@
 
 要求
 - 在上面URL的工程中进行开发
-- 本地启动后访问http://localhost:8080/deepexi-user/api/v1/users 可以正常调用
+- 本地启动后访问http://localhost:8080/deepexi-user/api/v1/components 可以正常调用
 - postman截图显示调用结果
 
 加分项：能够体现分析问题的过程
