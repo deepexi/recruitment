@@ -5,7 +5,7 @@
 
 ## 一、时间 + 资料
 
-- 时间：3天内独立完成，可使用任何辅助工具
+- 时间：2天内独立完成，可使用任何辅助工具
 - URL1：[https://github.com/deepexi/dubbo-demo]
 - URL2：[https://github.com/deepexi/springcloud-exam]
 - UR3：[https://github.com/deepexi/optimus-commons]
