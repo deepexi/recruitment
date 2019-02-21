@@ -30,6 +30,7 @@
 - 所有的api都在http://localhost:8080/deepexi-user/api/v1/components 之下(前缀一致）
 - postman截图显示调用结果（附上代码包）
 - 邮件主题：面试题结果-姓名
+- 附上你的简历
 
 加分项：能够体现分析问题的过程
 
