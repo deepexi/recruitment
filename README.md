@@ -13,6 +13,7 @@
   - 广州：根据具体面试的岗位发到对应HR的邮箱（结果发到这个邮箱）
     - HR1:chenshaowen@deepexi.com
     - HR2:ludehai@deepexi.com
+    - HR3:hudong@deepexi.com
   - 成都：zhaochaojian@deepexi.com （结果发到这个邮箱）
 
 如果完成，则经过初步筛选，可以发送内容到上面的邮件
