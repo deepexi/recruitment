@@ -9,7 +9,11 @@
 - URL1：[https://github.com/deepexi/dubbo-demo]
 - URL2：[https://github.com/deepexi/springcloud-exam]
 - UR3：[https://github.com/deepexi/optimus-commons]
-- 邮箱：chenshaowen@deepexi.com （结果发到这个邮箱）
+- 邮箱：
+  - 广州：根据具体面试的岗位发到对应HR的邮箱（结果发到这个邮箱）
+    - HR1:chenshaowen@deepexi.com
+    - HR2:ludehai@deepexi.com
+  - 成都：zhaochaojian@deepexi.com （结果发到这个邮箱）
 
 如果完成，则经过初步筛选，可以发送内容到上面的邮件
 
