@@ -62,6 +62,8 @@
 10. 有企业中台实战经验或丰富的SaaS电商平台经验更佳(加分)
 11. 有意愿参与开源项目及了解前端技术栈更佳（加分）
 
+boss地址：https://m.zhipin.com/weijd/v2/job/a0b7b92a8921058f03Z62d-_FFQ~?date8=20190514&sid=self_jd&from=singlemessage&isappinstalled=0
+
 ### 其他职位
 
 https://www.zhipin.com/gongsir/63fe6991ebed18e81XVz2dW6GA~~.html?ka=company-jobs
